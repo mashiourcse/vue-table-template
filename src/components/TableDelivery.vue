@@ -11,7 +11,7 @@ defineProps({
   checkable: Boolean
 })
 
-const url = "http://localhost:3000";
+const url = "https://saber-traders-backend-d1gm.vercel.app/";
 
 const isModalActive = ref(false)
 const isModalDangerActive = ref(false)
